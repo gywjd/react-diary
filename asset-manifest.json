@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-diary/static/css/main.306c8bf8.css",
+    "main.js": "/react-diary/static/js/main.080f5c07.js",
+    "index.html": "/react-diary/index.html",
+    "main.306c8bf8.css.map": "/react-diary/static/css/main.306c8bf8.css.map",
+    "main.080f5c07.js.map": "/react-diary/static/js/main.080f5c07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306c8bf8.css",
+    "static/js/main.080f5c07.js"
+  ]
+}
